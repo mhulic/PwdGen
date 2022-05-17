@@ -28,10 +28,16 @@ public class Main {
             heslo[x] = shuffledArray[randomIndex];
         }
 
-        System.out.println("Heslo:");
+        System.out.println("Heslo: ");
         for (String x: heslo) {
             System.out.print(x);
         }
+
+
+        /*
+
+        toto je second branch test
+         */
 
     }
 }
